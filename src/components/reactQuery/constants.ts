@@ -1,9 +1,10 @@
 
 // const BASE_URL  = "https://api.flocks.vn/api/v1"
-const BASE_URL = "http://192.168.123.130:8000/api/v1"
+const BASE_URL = "http://54.203.235.172:8000/api/v1"
 //image path
 //const IMAGES_PATH = "https://uploads.flocks.vn"
-const IMAGES_PATH = "http://192.168.123.130:8000"
+const IMAGES_PATH = "http://54.203.235.172:8000"
+//Change to reset aws
 
 
 // token variable 
